@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "43645600d4c87006ae27b9a081152879e4fac95271e7d8591d9ee17f69747929",
-    "current": "43645600d4c87006ae27b9a081152879e4fac95271e7d8591d9ee17f69747929"
+    "previous": "858798e620467dba3c7248eca0cf44545fb03b66d53a47d8df82a95d6d39161e",
+    "current": "858798e620467dba3c7248eca0cf44545fb03b66d53a47d8df82a95d6d39161e"
   },
   "fonts": [
     "forkawesome/forkawesome.ttf",
@@ -1074,6 +1074,10 @@
     "fax": {
       "codepoint": 61868,
       "source": "svg/fax.svg"
+    },
+    "fediverse": {
+      "codepoint": 62304,
+      "source": "svg/fediverse.svg"
     },
     "female": {
       "codepoint": 61826,
